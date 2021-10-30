@@ -1,1 +1,12 @@
-
+public class MyProgram
+{
+    public static void main(String[] args)
+    {
+        sussy xd = new sussy();
+       xd.fullName();
+       
+       
+       
+       
+    }
+}
